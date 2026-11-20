@@ -1,5 +1,9 @@
 # GitHub Forge — rebuild v3
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/zurickzariant121-dot/github-forge/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/zurickzariant121-dot/github-forge/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A GitHub-compatible git forge in pure Python 3.13 stdlib: git smart HTTP
 (v2 upload-pack, v0 receive-pack), REST v3, GraphQL v4 subset, and MCP over
 streamable HTTP. One process, no dependencies, no git binary.
